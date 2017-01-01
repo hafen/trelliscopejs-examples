@@ -1,4 +1,4 @@
-__loadTrscopeConfig__8a43f2dd({
+{
   "display_base": "displays",
   "data_type": "json",
   "cog_server": {
@@ -7,4 +7,4 @@ __loadTrscopeConfig__8a43f2dd({
       "base": "displays"
     }
   }
-})
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "group": "common",
+    "name": "list_vs_time",
+    "desc": "monthly median list price vs. time for 2984 US counties from 2008–2016",
+    "n": 2995,
+    "height": 500,
+    "width": 500,
+    "updated": "2016-12-07 16:34:51",
+    "keySig": "6c48156519e57100c73b88a62ce4ac58"
+  }
+]
